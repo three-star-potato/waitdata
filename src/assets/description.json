@@ -1,0 +1,89 @@
+{
+    "description": "PLA Unit 61398 (Chinese: 61398\u90e8\u961f, Pinyin: 61398 b\u00f9du\u00ec) is the Military Unit Cover Designator (MUCD)[1] of a People's Liberation Army advanced persistent threat unit that has been alleged to be a source of Chinese computer hacking attacks",
+    "meta": {
+        "attribution-confidence": "50",
+        "cfr-suspected-state-sponsor": "China",
+        "cfrsuspectedvictims": [
+            "United States",
+            "Taiwan",
+            "Israel",
+            "Norway",
+            "United Arab Emirates",
+            "United Kingdom",
+            "Singapore",
+            "India",
+            "Belgium",
+            "South Africa",
+            "Switzerland",
+            "Canada",
+            "France",
+            "Luxembourg",
+            "Japan"
+        ],
+        "cfr-target-category": [
+            "Private sector",
+            "Government"
+        ],
+        "cfr-type-of-incident": "Espionage",
+        "country": "China",
+        "refs": [
+            "https://en.wikipedia.org/wiki/PLA_Unit_61398",
+            "http://intelreport.mandiant.com/Mandiant_APT1_Report.pdf",
+            "https://www.cfr.org/interactive/cyber-operations/pla-unit-61398",
+            "https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/the-siesta-campaign-a-new-targeted-attack-awakens/",
+            "https://www.fireeye.com/blog/threat-research/2014/03/a-detailed-examination-of-the-siesta-campaign.html",
+            "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/operation-oceansalt-delivers-wave-after-wave/",
+            "https://www.mcafee.com/enterprise/en-us/assets/reports/rp-operation-oceansalt.pdf",
+            "https://www.symantec.com/connect/blogs/apt1-qa-attacks-comment-crew",
+            "https://attack.mitre.org/groups/G0006/",
+            "https://www.nytimes.com/2014/05/20/us/us-to-charge-chinese-workers-with-cyberspying.html"
+        ],
+        "synonyms": [
+            "Comment Panda",
+            "PLA Unit 61398",
+            "APT 1",
+            "APT1",
+            "Advanced Persistent Threat 1",
+            "Byzantine Candor",
+            "Group 3",
+            "TG-8223",
+            "Comment Group",
+            "Brown Fox",
+            "GIF89a",
+            "ShadyRAT",
+            "Shanghai Group"
+        ]
+    },
+    "related": [
+        {
+            "dest-uuid": "6a2e693f-24e5-451a-9f88-b36a108e5662",
+            "tags": [
+                "estimative-language:likelihood-probability=\"likely\""
+            ],
+            "type": "similar"
+        }
+    ],
+    "uuid": "1cb7e1cc-d695-42b1-92f4-fd0112a3c9be",
+    "value": "Comment Crew",
+    "aptmap": {
+        "operatingFrom": "CHN",
+        "victims": [
+            "USA",
+            "TWN",
+            "ISR",
+            "NOR",
+            "ARE",
+            "GBR",
+            "SGP",
+            "IND",
+            "BEL",
+            "ZAF",
+            "CHE",
+            "CAN",
+            "FRA",
+            "LUX",
+            "JPN"
+        ]
+    }
+}
